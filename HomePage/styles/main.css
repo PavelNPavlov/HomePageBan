@@ -17,3 +17,7 @@ body{
   width:auto;
   margin-top: 0.8em;
 }
+
+.carousel-control{
+  margin-top: 10em;
+}
